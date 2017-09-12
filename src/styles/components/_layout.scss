@@ -1,0 +1,5 @@
+/* applied to all containers, it's absolutely needed
+   for the first one (to avoid overlapping with navbar) */
+body>.container {
+  padding: 60px 15px 0;
+}
